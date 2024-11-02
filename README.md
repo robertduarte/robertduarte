@@ -33,7 +33,7 @@ Nearshore technology solutions company, architecting and designing scalable, hig
 
 ### Mesa Mobile Thinking
 
-##### Software Engineer - July 2022 - December 2023
+##### Software Engineer - June 2022 - December 2023
 
 Nearshore technology solutions company creating digital products to create impact for strong brands. Making people's lives easier is the purpose that drives us.
 
