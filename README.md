@@ -9,21 +9,27 @@ Focused mainly on BackEnd technologies, I worked in a lot of projects as a Engin
 
 ## Experiences
 
-### Truckup LLC
+### Devlane
 
-##### Software Engineer - January 2024 - to date
+##### Specialist Fullstack Engineer - January 2024 - to date
 
-A mobile app that connects truck owners with certified mechanics for quick and reliable on-demand repairs and maintenance, providing real-time updates and transparent pricing.
+Nearshore technology solutions company, architecting and designing scalable, high-performance software solutions to meet our customers' business challenges
 
-- Application interface program development;
-- Integration with Stripe payment gateway management system;
-- Analysis and development of systems for application interface, using RestAPIs;
-- Increasing Code Quality with tests schemas like Unit Tests, Integration Tests and Load Tests;
-- CICD Pipeline for deploy configurations.
+- Development of data ingestion flows with Node.Js, DynamoDB, Crawlers and Scrum.
+- Collecting, transforming, storing, distributing and making data available;
+- Carrying out treatment in technologies, and possible mentoring;
+- Pharmaceutical information collection, data transformation and database storage;
+- Data Lake ingestion;
+- Maintenance of pre-existing codes.
+- Responding to the mentoring of junior developers;
+- Leadership and application development with the software team;
+- Continuous delivery to customers;
+- Ensuring code quality with unit test development and integration testing
+- Leadership and application development with the software team;
 
-**Result:** Startup company releasing new application that meets mobile mechanics and truck's owners with any kind of issue. The project was launched in February 2024 and currently has more than hundreds of mechanics, generating revenue of almost half a million dollars.
+**Result:** Data collection from more than 300 pharmaceutical companies in the US, based on health plans in each state, inferring information from more than half a petabyte of data.
 
-**Technologies:** GitHub · GitHub Actions · Amazon Lambda · Amazon SQS · Amazon RDS · Postgres · Agile Methodologies · Cloud Computing · REST API · Serverless Stack · SST · TypeScript · RESTful Web Services · Backend Development · Amazon Web Services · JavaScript · Scrum · Software Development · Node.js · JSON · SQL · Git · Jira · Stripe · ViTest · Swagger · OpenAPI
+**Technologies:** GitHub · GitHub Actions · Amazon EC2 · Amazon DynamoDB · Data Lake · Agile Methodologies · Technical Leadership · Cloud Computing · REST API · Leadership · TypeScript · RESTful Web Services · Backend Development · Amazon Web Services · JavaScript · Scrum · Software Development · Node.js · JSON · SQL · Git
 
 ### Mesa Mobile Thinking
 
@@ -41,25 +47,34 @@ Nearshore technology solutions company creating digital products to create impac
 
 **Technologies:** GitHub · GitHub Actions · Amazon EC2 · Agile Methodologies · Technical Leadership · Cloud Computing · REST API · Amazon SQS · AWS Lambda · Serverless Computing · GraphQL · Leadership · TypeScript · RESTful Web Services · Backend Development · Amazon Web Services · JavaScript · Scrum · Software Development · Node.js · JSON · SQL · Git · Oracle
 
-### BairesDev LLC
+### XP Inc
 
-##### Software Engineer - July 2021 - June 2022
+##### Senior Software Engineer - September 2021 - May 2022
 
-Nearshore technology solutions company, architecting and designing scalable, high-performance software solutions to meet our customers' business challenges.
+Application that generates a new experience based on news, finance and investments. Together, to improve people's financial decisions.
 
-- Application interface program development;
-- Integration with cryptocurrency management system;
-- Integration with social networking systems;
-- Analysis and development of systems for application interface;
-- Integration with machine learning systems for awarding digital currencies.
+- Development of data ingestion flows with Node.Js, MongoDB, Crawlers, RabbitMQ, Redash and Scrum.
+- Collecting, transforming, storing, distributing and making data available;
+- Carrying out treatment in technologies, and possible mentoring;
+- Banking information collection, data transformation and database storage;
+- Analysis of pre-existing codes.
+- Responding to the mentoring of junior developers;
+- Process of financial consolidation of the data stored in the database and presentation of its reports;
+- Leadership and application development with the software team;
+- Continuous delivery to customers;
+- Giving visibility to the team's work, managing, helping planning and ensuring the execution of projects and products.
+- Managing the team's workflow, bringing metrics on management, identifying bottlenecks, removing blockers, etc.
+- Ensuring code quality with unit test development and integration testing
+- Integration with third-party services for operationalization of assets of the American Stock Exchange (Nasdaq and NYSE)
+- Development of application interface program to serve and support the company's mobile application (XP Investimentos)
 
-**Result:** Project in progress, with the launch of its experimental version scheduled for the second half of 2022, with planning for an increase in the number of users (of the social network) in around 20% and an increase of 40% in the number of overall user engagement.
+**Result:** Acting on a financial consolidation application, we generated a 20% increase in the number of active users, delivering more than 15 financial institutions. Cost reduction with cloud services of 10%.
 
-**Technologies:** GitLab · GitLab CI/CD · Object-Oriented Programming (OOP) · Amazon EC2 · Agile Methodologies · Technical Leadership · Cloud Computing · REST API · AWS Lambda · Serverless Computing · Kubernetes · Docker · TypeScript · Web Services RESTful · Backend Development · JavaScript · Scrum · Software Development · Node.js · JSON · NoSQL · MongoDB · Git · Express.js
+**Technologies:** GitHub · Bitbucket · Object-Oriented Programming (OOP) · Amazon EC2 · Agile Methodologies · Technical Leadership · Cloud Computing · REST API · Amazon SQS · AWS Lambda · Serverless Computing · Docker · GraphQL · Leadership · TypeScript · DevOps · Web Services RESTful · Backend Development · JavaScript · Scrum Master · Scrum · Software Development · Node.js · JSON · SQL · MongoDB · Microsoft SQL Server · Git · Express.js · Redis
 
 ### CESAR
 
-##### Software Engineer - December 2020 - June 2021
+##### Software Engineer - December 2020 - September 2021
 
 Center for innovation in training people and drives organizations, enhancing their digital strategies.
 
@@ -158,9 +173,9 @@ Advertising agency.
 
 **Technologies:** Bitbucket · Object Oriented Programming (OOP) · Agile Methodologies · Backend Development · JavaScript · Scrum · Software Development · PHP · MySQL · JQuery · CSS · JSON · SQL · MongoDB · Git
 
-### Hotworks
+### Hotworks / Ogilvy
 
-##### Back End Developer - August 2013 - February 2014
+##### Back End Developer - October 2012 - February 2014
 
 Multinational with a focus on Advertising.
 
