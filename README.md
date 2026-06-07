@@ -25,7 +25,7 @@ and a Bachelor’s degree in Information Systems, complemented by a technical de
 
 ### Christian Care Ministry - CCM
 
-#####Senior Software Engineer - June 2025 - to date
+##### Senior Software Engineer - June 2025 - to date
 
 Responsible for developing and maintaining microservices and member management applications supporting
 MediShare’s operational ecosystem. Tasks include architecting and implementing scalable backend and frontend
