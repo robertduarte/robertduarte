@@ -1,17 +1,51 @@
 # Robert Duarte
 
-### Software Engineer | ScrumMaster | Tech Lead | Team Lead
+### Specialist Full Stack Engineer | Node.js, TypeScript, AWS, React | Cloud Architecture | Scrum Master | Technical Leadership
 
-Passioned for technology, acting with IT for 20 years.
-Focused mainly on BackEnd technologies, I worked in a lot of projects as a Engineer, Team Lead, or ScrumMaster. Developing since apps to attend own employees to huge projects for multinationals.
+Experienced Scrum Master (with certification from Scrum Alliance) and Full Stack Engineer specializing in facilitating
+Agile methodologies, fostering collaboration, and ensuring seamless project delivery. Adept at leading sprint
+planning, managing backlogs, and promoting continuous improvement within development teams to meet business
+objectives effectively.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-rl-duarte/)
+As a Full Stack Engineer, specializes in Backend development with extensive expertise in Node.js, TypeScript, and REST
+APIs, alongside hands-on experience with Java and Python. Proficient in serverless computing and cloud technologies
+such as AWS Lambda, DynamoDB, and Amazon SQS, with additional skills in PostgreSQL, MongoDB, Redis, Docker,
+and Kubernetes. On the frontend, experienced in building responsive and dynamic user interfaces using React, React
+Native, and Angular. Strong background in DevOps practices, object-oriented programming (OOP), and software
+architecture, delivering scalable and high-performance solutions. Skilled in technical leadership, driving innovation,
+and optimizing efficiency across multidisciplinary teams.
+
+Certified as an AWS Cloud Practitioner, Certified ScrumMaster (CSM), and Kanban Foundation Professional, bringing a
+comprehensive understanding of project management and Agile processes, including an MBA in Project Management
+and a Bachelor’s degree in Information Systems, complemented by a technical degree in Software Development.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertrlduarte/)
 
 ## Experiences
 
+### Christian Care Ministry - CCM
+
+#####Senior Software Engineer - June 2025 - to date
+
+Responsible for developing and maintaining microservices and member management applications supporting
+MediShare’s operational ecosystem. Tasks include architecting and implementing scalable backend and frontend
+solutions using NestJS, NextJS, RabbitMQ, PostgreSQL, and SQL Server, all running within Heroku Cloud under a CQRS
+architecture.
+
+Collaborating within a Scrum framework, responsibilities encompass designing APIs, optimizing performance, and
+ensuring high system reliability to support over two million active users performing daily transactions. Additional
+duties include maintaining code quality through testing and peer review, and coordinating with cross-functional
+teams to ensure smooth delivery of business-critical features.
+
+Results include improved scalability and reliability across core MediShare systems, ensuring consistent availability and
+performance for millions of members across the United States.
+
+Technologies: Agile Methodologies, Scrum, Cloud Computing, Git, GitLab, Heroku, Node.js, JavaScript, TypeScript,
+NestJS, ExpressJS, React, NextJS, SQL, PostgreSQL, SQL Server, NOSQL, Redis, CQRS, RabbitMQ, Docker
+
 ### Devlane
 
-##### Specialist Fullstack Engineer - January 2024 - to date
+##### Specialist Fullstack Engineer - January 2024 - June 2025
 
 Nearshore technology solutions company, architecting and designing scalable, high-performance software solutions to meet our customers' business challenges
 
